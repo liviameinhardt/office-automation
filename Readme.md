@@ -13,8 +13,7 @@ To use this project, follow these steps:
 
 - Generate PowerPoint presentations with customizable [templates](https://www.wikihow.com/Edit-a-PowerPoint-Template)
 - Generate Word documents
-- Generate and send automated Outlook emails*
-*you only need to have the app open.
+- Generate and send automated Outlook emails
 
 ## Usage
 
