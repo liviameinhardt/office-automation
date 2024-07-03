@@ -1,6 +1,6 @@
 # Office Automation
 
-This project aims to automate various office tasks using Python. It provides a set of utilities and functions to streamline common office processes.
+This project aims to automate various office tasks using Python. It provides a set of utilities and functions to automate emails, powerpoints and word documents.
 
 ## Installation
 
