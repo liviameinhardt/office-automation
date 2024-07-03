@@ -1,0 +1,6 @@
+pywin32
+pyyaml
+python-docx
+python-pptx
+
+
